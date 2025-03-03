@@ -59,15 +59,13 @@ project-root/
 - **Switch between primary and secondary screens** seamlessly.
 
 ## Screenshots
-![Screenshot 2025-03-03 223038](https://github.com/user-attachments/assets/50b6cb31-6b52-4c49-b1c9-4ec3d0b439ff)
-![Screenshot 2025-03-03 223102](https://github.com/user-attachments/assets/165a9f43-099b-446e-8a73-b0a69c7947cf)
-![Screenshot 2025-03-03 222932](https://github.com/user-attachments/assets/12852a17-134a-4833-af65-80e3e5806738)
+![Screenshot 2025-03-03 224849](https://github.com/user-attachments/assets/816ec304-3d6d-4414-96cf-7439a6a78015)
+
 
 ## Demo Video
 [Watch Demo]
 
-https://github.com/user-attachments/assets/8bd99e3b-97db-430c-bc59-586b5bd72857
-
+https://github.com/user-attachments/assets/ab24be30-2912-437c-84cb-b03b7a53fc85
 
 ## Contributing
 1. Fork the repository
